@@ -61,11 +61,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch: `git push origin feature-branch-name`.
 5. Open a pull request.
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -74,8 +69,8 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to reach out with any questions or collaborations:
 
 - **Email:** pallapusuresh2000@email.com  
-- **LinkedIn:** 
-- **GitHub:**
+- **LinkedIn:** www.linkedin.com/in/suresh-pallapu
+- **GitHub:** https://github.com/sureshpallapu
 
 ---
 
