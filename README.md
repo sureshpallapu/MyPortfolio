@@ -29,8 +29,8 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
+   git clone (https://github.com/sureshpallapu/MyPortfolio)
+   cd MyPortfolio
    ```
 
 2. Install dependencies (if applicable):
