@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your portfolio website repository:
 
----
 
 # Portfolio Website 🌐
 
@@ -52,11 +50,6 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 ---
 
-## 🌟 Live Demo
-
-Check out the live version of my portfolio here: [Your Portfolio Website Link](https://your-website-link.com)
-
----
 
 ## 🤝 Contributing
 
