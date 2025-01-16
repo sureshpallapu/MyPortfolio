@@ -20,8 +20,8 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 - **Frontend:** HTML5, CSS3, JavaScript (or React, Angular, etc.)
 - **Backend:** Node.js (or Django, Flask, etc.)
-- **Styling:** Bootstrap, or Tailwind CSS, or custom styles.
-- **Deployment:** Hosted on [platform] (e.g., GitHub Pages, Vercel, Netlify).
+- **Styling:** Bootstrap( or Tailwind CSS, or custom styles).
+- **Deployment:** Hosted on  GitHub Pages  ( Vercel, Netlify).
 
 ---
 
