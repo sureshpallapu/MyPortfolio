@@ -27,11 +27,14 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 ## 📦 Installation and Setup
 
-1. Clone the repository:
-   ```bash
-   git clone (https://github.com/sureshpallapu/MyPortfolio)
-   cd MyPortfolio
-   ```
+1.  Clone the Repository
+Open a terminal or Git Bash.
+
+Clone the repository to your local machine:
+git clone https://github.com/<username>/<username>.github.io
+
+Navigate to the repository:
+cd <username>.github.io
 
 2. Install dependencies (if applicable):
    ```bash
